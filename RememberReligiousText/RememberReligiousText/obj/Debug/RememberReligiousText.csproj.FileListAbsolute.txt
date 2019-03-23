@@ -1,0 +1,41 @@
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\bin\Debug\RememberReligiousText.exe.config
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\bin\Debug\RememberReligiousText.exe
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\bin\Debug\RememberReligiousText.pdb
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\MainWindow.baml
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\MainWindow.g.cs
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\App.g.cs
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText_MarkupCompile.cache
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.g.resources
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.Properties.Resources.resources
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.csproj.GenerateResource.Cache
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.exe
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.pdb
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\DisplayWindow.baml
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\DisplayWindow.g.cs
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\VersionWindow.baml
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\VersionWindow.g.cs
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\AboutReligiousTextSixtyWindow.baml
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\AboutYohanChurchWindow.baml
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\AboutReligiousTextSixtyWindow.g.cs
+c:\users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Debug\AboutYohanChurchWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\bin\Debug\RememberReligiousText.exe.config
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\bin\Debug\RememberReligiousText.exe
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\bin\Debug\RememberReligiousText.pdb
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.csprojResolveAssemblyReference.cache
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\AboutReligiousTextSixtyWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\AboutYohanChurchWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\DisplayWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\MainWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\VersionWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\AboutReligiousTextSixtyWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\AboutYohanChurchWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\DisplayWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\MainWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\VersionWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\App.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText_MarkupCompile.cache
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.g.resources
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.Properties.Resources.resources
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.csproj.GenerateResource.Cache
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.exe
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Debug\RememberReligiousText.pdb

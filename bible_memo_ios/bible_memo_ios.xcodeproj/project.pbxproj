@@ -1,0 +1,507 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AB74708A1CDC2C9800A4AF20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7470891CDC2C9800A4AF20 /* AppDelegate.swift */; };
+		AB74708C1CDC2C9800A4AF20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB74708B1CDC2C9800A4AF20 /* ViewController.swift */; };
+		AB74708F1CDC2C9800A4AF20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB74708D1CDC2C9800A4AF20 /* Main.storyboard */; };
+		AB7470911CDC2C9800A4AF20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB7470901CDC2C9800A4AF20 /* Assets.xcassets */; };
+		AB7470941CDC2C9800A4AF20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB7470921CDC2C9800A4AF20 /* LaunchScreen.storyboard */; };
+		AB74709F1CDC2C9800A4AF20 /* bible_memo_iosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB74709E1CDC2C9800A4AF20 /* bible_memo_iosTests.swift */; };
+		AB7470AA1CDC2C9800A4AF20 /* bible_memo_iosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7470A91CDC2C9800A4AF20 /* bible_memo_iosUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AB74709B1CDC2C9800A4AF20 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AB74707E1CDC2C9800A4AF20 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AB7470851CDC2C9800A4AF20;
+			remoteInfo = bible_memo_ios;
+		};
+		AB7470A61CDC2C9800A4AF20 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AB74707E1CDC2C9800A4AF20 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AB7470851CDC2C9800A4AF20;
+			remoteInfo = bible_memo_ios;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AB7470861CDC2C9800A4AF20 /* bible_memo_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bible_memo_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB7470891CDC2C9800A4AF20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AB74708B1CDC2C9800A4AF20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AB74708E1CDC2C9800A4AF20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AB7470901CDC2C9800A4AF20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AB7470931CDC2C9800A4AF20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AB7470951CDC2C9800A4AF20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB74709A1CDC2C9800A4AF20 /* bible_memo_iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bible_memo_iosTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB74709E1CDC2C9800A4AF20 /* bible_memo_iosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bible_memo_iosTests.swift; sourceTree = "<group>"; };
+		AB7470A01CDC2C9800A4AF20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB7470A51CDC2C9800A4AF20 /* bible_memo_iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bible_memo_iosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB7470A91CDC2C9800A4AF20 /* bible_memo_iosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bible_memo_iosUITests.swift; sourceTree = "<group>"; };
+		AB7470AB1CDC2C9800A4AF20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AB7470831CDC2C9800A4AF20 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7470971CDC2C9800A4AF20 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7470A21CDC2C9800A4AF20 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AB74707D1CDC2C9800A4AF20 = {
+			isa = PBXGroup;
+			children = (
+				AB7470881CDC2C9800A4AF20 /* bible_memo_ios */,
+				AB74709D1CDC2C9800A4AF20 /* bible_memo_iosTests */,
+				AB7470A81CDC2C9800A4AF20 /* bible_memo_iosUITests */,
+				AB7470871CDC2C9800A4AF20 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AB7470871CDC2C9800A4AF20 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AB7470861CDC2C9800A4AF20 /* bible_memo_ios.app */,
+				AB74709A1CDC2C9800A4AF20 /* bible_memo_iosTests.xctest */,
+				AB7470A51CDC2C9800A4AF20 /* bible_memo_iosUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AB7470881CDC2C9800A4AF20 /* bible_memo_ios */ = {
+			isa = PBXGroup;
+			children = (
+				AB7470891CDC2C9800A4AF20 /* AppDelegate.swift */,
+				AB74708B1CDC2C9800A4AF20 /* ViewController.swift */,
+				AB74708D1CDC2C9800A4AF20 /* Main.storyboard */,
+				AB7470901CDC2C9800A4AF20 /* Assets.xcassets */,
+				AB7470921CDC2C9800A4AF20 /* LaunchScreen.storyboard */,
+				AB7470951CDC2C9800A4AF20 /* Info.plist */,
+			);
+			path = bible_memo_ios;
+			sourceTree = "<group>";
+		};
+		AB74709D1CDC2C9800A4AF20 /* bible_memo_iosTests */ = {
+			isa = PBXGroup;
+			children = (
+				AB74709E1CDC2C9800A4AF20 /* bible_memo_iosTests.swift */,
+				AB7470A01CDC2C9800A4AF20 /* Info.plist */,
+			);
+			path = bible_memo_iosTests;
+			sourceTree = "<group>";
+		};
+		AB7470A81CDC2C9800A4AF20 /* bible_memo_iosUITests */ = {
+			isa = PBXGroup;
+			children = (
+				AB7470A91CDC2C9800A4AF20 /* bible_memo_iosUITests.swift */,
+				AB7470AB1CDC2C9800A4AF20 /* Info.plist */,
+			);
+			path = bible_memo_iosUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AB7470851CDC2C9800A4AF20 /* bible_memo_ios */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB7470AE1CDC2C9800A4AF20 /* Build configuration list for PBXNativeTarget "bible_memo_ios" */;
+			buildPhases = (
+				AB7470821CDC2C9800A4AF20 /* Sources */,
+				AB7470831CDC2C9800A4AF20 /* Frameworks */,
+				AB7470841CDC2C9800A4AF20 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = bible_memo_ios;
+			productName = bible_memo_ios;
+			productReference = AB7470861CDC2C9800A4AF20 /* bible_memo_ios.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AB7470991CDC2C9800A4AF20 /* bible_memo_iosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB7470B11CDC2C9800A4AF20 /* Build configuration list for PBXNativeTarget "bible_memo_iosTests" */;
+			buildPhases = (
+				AB7470961CDC2C9800A4AF20 /* Sources */,
+				AB7470971CDC2C9800A4AF20 /* Frameworks */,
+				AB7470981CDC2C9800A4AF20 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB74709C1CDC2C9800A4AF20 /* PBXTargetDependency */,
+			);
+			name = bible_memo_iosTests;
+			productName = bible_memo_iosTests;
+			productReference = AB74709A1CDC2C9800A4AF20 /* bible_memo_iosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AB7470A41CDC2C9800A4AF20 /* bible_memo_iosUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB7470B41CDC2C9800A4AF20 /* Build configuration list for PBXNativeTarget "bible_memo_iosUITests" */;
+			buildPhases = (
+				AB7470A11CDC2C9800A4AF20 /* Sources */,
+				AB7470A21CDC2C9800A4AF20 /* Frameworks */,
+				AB7470A31CDC2C9800A4AF20 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB7470A71CDC2C9800A4AF20 /* PBXTargetDependency */,
+			);
+			name = bible_memo_iosUITests;
+			productName = bible_memo_iosUITests;
+			productReference = AB7470A51CDC2C9800A4AF20 /* bible_memo_iosUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AB74707E1CDC2C9800A4AF20 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = yubert;
+				TargetAttributes = {
+					AB7470851CDC2C9800A4AF20 = {
+						CreatedOnToolsVersion = 7.1.1;
+					};
+					AB7470991CDC2C9800A4AF20 = {
+						CreatedOnToolsVersion = 7.1.1;
+						TestTargetID = AB7470851CDC2C9800A4AF20;
+					};
+					AB7470A41CDC2C9800A4AF20 = {
+						CreatedOnToolsVersion = 7.1.1;
+						TestTargetID = AB7470851CDC2C9800A4AF20;
+					};
+				};
+			};
+			buildConfigurationList = AB7470811CDC2C9800A4AF20 /* Build configuration list for PBXProject "bible_memo_ios" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AB74707D1CDC2C9800A4AF20;
+			productRefGroup = AB7470871CDC2C9800A4AF20 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AB7470851CDC2C9800A4AF20 /* bible_memo_ios */,
+				AB7470991CDC2C9800A4AF20 /* bible_memo_iosTests */,
+				AB7470A41CDC2C9800A4AF20 /* bible_memo_iosUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AB7470841CDC2C9800A4AF20 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB7470941CDC2C9800A4AF20 /* LaunchScreen.storyboard in Resources */,
+				AB7470911CDC2C9800A4AF20 /* Assets.xcassets in Resources */,
+				AB74708F1CDC2C9800A4AF20 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7470981CDC2C9800A4AF20 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7470A31CDC2C9800A4AF20 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AB7470821CDC2C9800A4AF20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB74708C1CDC2C9800A4AF20 /* ViewController.swift in Sources */,
+				AB74708A1CDC2C9800A4AF20 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7470961CDC2C9800A4AF20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB74709F1CDC2C9800A4AF20 /* bible_memo_iosTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7470A11CDC2C9800A4AF20 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB7470AA1CDC2C9800A4AF20 /* bible_memo_iosUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AB74709C1CDC2C9800A4AF20 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AB7470851CDC2C9800A4AF20 /* bible_memo_ios */;
+			targetProxy = AB74709B1CDC2C9800A4AF20 /* PBXContainerItemProxy */;
+		};
+		AB7470A71CDC2C9800A4AF20 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AB7470851CDC2C9800A4AF20 /* bible_memo_ios */;
+			targetProxy = AB7470A61CDC2C9800A4AF20 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AB74708D1CDC2C9800A4AF20 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB74708E1CDC2C9800A4AF20 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AB7470921CDC2C9800A4AF20 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB7470931CDC2C9800A4AF20 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AB7470AC1CDC2C9800A4AF20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AB7470AD1CDC2C9800A4AF20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AB7470AF1CDC2C9800A4AF20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = bible_memo_ios/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yuhori.bible-memo-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AB7470B01CDC2C9800A4AF20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = bible_memo_ios/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yuhori.bible-memo-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		AB7470B21CDC2C9800A4AF20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = bible_memo_iosTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yuhori.bible-memo-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/bible_memo_ios.app/bible_memo_ios";
+			};
+			name = Debug;
+		};
+		AB7470B31CDC2C9800A4AF20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = bible_memo_iosTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yuhori.bible-memo-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/bible_memo_ios.app/bible_memo_ios";
+			};
+			name = Release;
+		};
+		AB7470B51CDC2C9800A4AF20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = bible_memo_iosUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yuhori.bible-memo-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = bible_memo_ios;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		AB7470B61CDC2C9800A4AF20 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = bible_memo_iosUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yuhori.bible-memo-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = bible_memo_ios;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AB7470811CDC2C9800A4AF20 /* Build configuration list for PBXProject "bible_memo_ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7470AC1CDC2C9800A4AF20 /* Debug */,
+				AB7470AD1CDC2C9800A4AF20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB7470AE1CDC2C9800A4AF20 /* Build configuration list for PBXNativeTarget "bible_memo_ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7470AF1CDC2C9800A4AF20 /* Debug */,
+				AB7470B01CDC2C9800A4AF20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AB7470B11CDC2C9800A4AF20 /* Build configuration list for PBXNativeTarget "bible_memo_iosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7470B21CDC2C9800A4AF20 /* Debug */,
+				AB7470B31CDC2C9800A4AF20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		AB7470B41CDC2C9800A4AF20 /* Build configuration list for PBXNativeTarget "bible_memo_iosUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7470B51CDC2C9800A4AF20 /* Debug */,
+				AB7470B61CDC2C9800A4AF20 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AB74707E1CDC2C9800A4AF20 /* Project object */;
+}

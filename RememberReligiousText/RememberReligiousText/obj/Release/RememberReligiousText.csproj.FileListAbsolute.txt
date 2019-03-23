@@ -1,0 +1,41 @@
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\bin\Release\RememberReligiousText.exe.config
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\bin\Release\RememberReligiousText.exe
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\bin\Release\RememberReligiousText.pdb
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.csprojResolveAssemblyReference.cache
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\AboutReligiousTextSixtyWindow.baml
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\AboutYohanChurchWindow.baml
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\DisplayWindow.baml
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\MainWindow.baml
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\VersionWindow.baml
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\AboutReligiousTextSixtyWindow.g.cs
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\AboutYohanChurchWindow.g.cs
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\DisplayWindow.g.cs
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\MainWindow.g.cs
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\VersionWindow.g.cs
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\App.g.cs
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText_MarkupCompile.cache
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.g.resources
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.Properties.Resources.resources
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.csproj.GenerateResource.Cache
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.exe
+C:\Users\yubert\documents\visual studio 2012\Projects\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.pdb
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\bin\Release\RememberReligiousText.exe.config
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.exe
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.pdb
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\bin\Release\RememberReligiousText.exe
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\bin\Release\RememberReligiousText.pdb
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\AboutReligiousTextSixtyWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\AboutYohanChurchWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\DisplayWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\MainWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\VersionWindow.baml
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\AboutReligiousTextSixtyWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\AboutYohanChurchWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\DisplayWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\MainWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\VersionWindow.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\App.g.cs
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText_MarkupCompile.cache
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.g.resources
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.Properties.Resources.resources
+C:\Users\yubert\Desktop\WorkSpace\RememberReligiousText\RememberReligiousText\obj\Release\RememberReligiousText.csproj.GenerateResource.Cache

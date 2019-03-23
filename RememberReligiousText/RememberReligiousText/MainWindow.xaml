@@ -1,0 +1,23 @@
+﻿<Window x:Class="RememberReligiousText.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="暗唱聖句60" Height="200" Width="300" ResizeMode="NoResize">
+    <Grid>
+        <Menu VerticalAlignment="Top">
+            <!--
+            <MenuItem Header="学習記録(_R)">
+                <MenuItem Header="観る(_S)" />
+                <MenuItem Header="消去(_C)" />
+            </MenuItem>
+            -->
+            <MenuItem Header="ヘルプ(_H)">
+                <MenuItem Header="バージョン情報(_V)" Click="OnClickVersionWindowMenu" />
+                <MenuItem Header="暗唱聖句60について(_R)" Click="OnClickReligiousTextSixtyWindowMenu" />
+                <MenuItem Header="ヨハン教会について(_Y)" Click="OnClickAboutYohanChurchWindowMenu" />
+            </MenuItem>
+        </Menu>
+        <TextBlock HorizontalAlignment="Left" Margin="10,28,0,0" FontSize="20" TextWrapping="Wrap" Text="■ 暗唱聖句60" VerticalAlignment="Top"/>
+        <Button Content="開始" HorizontalAlignment="Stretch" Margin="10,71,10,0" VerticalAlignment="Top" Height="60" Click="OnClickStartButton"/>
+
+    </Grid>
+</Window>

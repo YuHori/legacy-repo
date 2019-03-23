@@ -1,0 +1,10 @@
+﻿<Window x:Class="RememberReligiousText.AboutReligiousTextSixtyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="暗唱聖句60について" Height="300" Width="500">
+    <Grid Background="#FFDEDEDE">
+        <TextBlock HorizontalAlignment="Stretch" Margin="10,10,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="202" Background="White"><Run Text="「暗唱聖句60」とは、ヨハン教会にて、聖書の理解を深め聖書に書かれた言葉（聖句）を覚えるために、重要な60個の聖句を聖書から厳選して選んだものです。"/><LineBreak/><Run Text="新旧約聖書それぞれから幅広く聖句を選び、60個の聖句を暗唱すれば聖書の概念がある程度わかるようになっています。"/><LineBreak/><Run/><LineBreak/><Run Text="ヨハン教会では、年2回、毎年5月と毎年11月に、聖書を体系的に学ぶバイブルウィーク期間が持たれており、この期間中に個人的に60個の聖句を暗唱する方が多いです。"/><LineBreak/><Run/><LineBreak/><Run Text="60個を覚えるのは大変ですが、トレーニングコースを活用しながら、ぜひ覚えてみて下さい。"/></TextBlock>
+        <Button Content="OK" HorizontalAlignment="Left" Margin="215,228,0,0" VerticalAlignment="Top" Width="75" Click="OnClickOkButton"/>
+
+    </Grid>
+</Window>
